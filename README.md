@@ -1,7 +1,7 @@
 # MIPS_Processor
 MIPS pipeline processor for Computer Architecture Course
 
-####The processor looks like this- 
+#### The processor looks like this- 
 ![IMAGE](https://github.com/shantanu-nigam99/MIPS_Processor/blob/master/Screenshot%20(58).png)
 
 
