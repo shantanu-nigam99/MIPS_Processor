@@ -18,4 +18,4 @@ To change the instruction file, go to [memory.v](https://github.com/shantanu-nig
 ## INSTRUCTION FILES
 The instructions are coded according to MIPS instruction format. Idea about how to encode the instruction is shown [here](https://github.com/shantanu-nigam99/MIPS_Processor/blob/master/instruction%20memory.pdf)
 
-To get binary code for the instructions I have made a very simple [compiler](https://github.com/shantanu-nigam99/MIPS_Processor/blob/master/MIPS_compiler.ipynb). The instructions have to be coded as shown [here](https://github.com/shantanu-nigam99/MIPS_Processor/blob/master/instructions.txt) which is the standard MIPS instruction format. 
+To get binary code for the instructions I have made a very simple [compiler](https://github.com/shantanu-nigam99/MIPS_Processor/blob/master/MIPS_compiler.ipynb). The instructions have to be according to the standard MIPS instruction format as shown [here](https://github.com/shantanu-nigam99/MIPS_Processor/blob/master/instructions.txt). 
