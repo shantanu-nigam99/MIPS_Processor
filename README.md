@@ -14,3 +14,6 @@ file is the Processor, run the testbench in this file to simulate.
 
 
 To change the instruction file, go to [memory.v](https://github.com/shantanu-nigam99/MIPS_Processor/blob/master/memory.v) file and edit the file name in 17th line.
+
+## INSTRUCTION FILES
+The instructions are coded according to MIPS instruction format. Idea about how to encode the instruction is shown [here](https://github.com/shantanu-nigam99/MIPS_Processor/blob/master/instruction%20memory.pdf)
