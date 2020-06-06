@@ -18,3 +18,8 @@ The instructions are coded according to MIPS instruction format. Idea about how 
 To change the instruction file, go to [memory.v](https://github.com/shantanu-nigam99/MIPS_Processor/blob/master/memory.v) file and edit the file name in 17th line.
 
 To get binary code for the instructions I have made a very simple [compiler](https://github.com/shantanu-nigam99/MIPS_Processor/blob/master/MIPS_compiler.ipynb). The instructions have to be according to the standard MIPS instruction format as shown [here](https://github.com/shantanu-nigam99/MIPS_Processor/blob/master/instructions.txt). 
+
+
+## INSTRUCTIONS FOR EXECUTION
+1. Copy the directory and compile all.
+2. Run tb_processor file in processor.v
